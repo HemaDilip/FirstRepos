@@ -4,10 +4,8 @@ public class SimpleProgram {
 
 	public static void main(String[] args) {
 
-		System.out.println("To Copy Master");
-		
-		System.out.println("Sub Master");
-		System.out.println("Sub Master created in FirstRepos");
+		System.out.println("New Line");
+		System.out.println("New line created in submaster");
 	}
 
 }
